@@ -1,0 +1,9 @@
+Rio de Janeiro;25.5
+Sacramento;28.9
+São Paulo;30.0
+Uberaba;29.1
+Ribeirão Preto;20.7
+Conquista;32.5
+Ribeirão Preto;25.7
+Sacramento;25.9
+Sacramento;21.2
